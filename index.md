@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mario Alejandro López Ocampo
 
 You can use the [editor on GitHub](https://github.com/tictologo/tictologo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
